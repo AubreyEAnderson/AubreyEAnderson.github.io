@@ -1,0 +1,11 @@
+body {
+        background-color: lightgray;
+}
+
+.links {
+        margin-left: 100px;
+}
+
+.image {
+        float: left;
+}
