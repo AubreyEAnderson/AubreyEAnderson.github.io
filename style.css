@@ -32,12 +32,10 @@ body {
 }
 
 #image {
-        border: ridge;
-        height: 250px;
-        width: auto;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-bottom: 10px;
+    border: ridge;
+    height: 250px;
+    width: auto;
+    margin: 15px;
 }
 
 #sidebar {
@@ -45,6 +43,9 @@ body {
     padding: 10px;
     float: right;
     border: solid;
-            border-color: darkgreen;
+    border-color: darkgreen;
+}
 
+.emph {
+    font-style: italic;
 }
