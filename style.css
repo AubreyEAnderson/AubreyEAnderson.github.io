@@ -1,11 +1,41 @@
 body {
-        background-color: lightgray;
+    background-color: lightgray;
+    text-align: center;
 }
 
-.links {
-        margin-left: 100px;
+#topbar a{
+    text-decoration: none;
 }
 
-.image {
+#links {
+    font-family: Helvetica;
+    font-size: 20px;
+    
+}
+
+#name {
+    background: darkgreen;
+    padding: 15px;
+    color: lightgray;
+}
+
+#links a:link {
+    text-decoration: none;
+}
+
+#links a:hover {
+    text-decoration: underline;
+}
+
+#links a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+#image {
         float: left;
+        height: 500px;
+        width: auto;
+        margin-left: 20px;
+        margin-right: 20px
 }
