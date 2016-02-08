@@ -1,6 +1,9 @@
 Aubrey Anderson
-COMP20
+Tufts University
+COMP 20
 Portfolio Website
+
+This a website containing a brief biography of myself and my resume.
 
 All parts of this assignment have been correctly implemented.
 
