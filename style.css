@@ -49,3 +49,7 @@ body {
 .emph {
     font-style: italic;
 }
+
+#bio {
+    width: 40%
+}
